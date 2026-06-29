@@ -1,0 +1,5 @@
+ZARQI	Ezzoubair	
+
+Slime Mould Algorithm	
+flow shop scheduling problem	
+Slime mould algorithm: A new method for stochastic optimization, Futur. Gener. Comput. Syst
